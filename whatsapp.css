@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* border: 3px solid firebrick; */
+}
+
+body {
+    background-color: rgb(17, 27, 32);
+    width: 100%;
+    height: 100%;}
+
+.green {
+        width: 100%;
+        height: 221.55px;
+        background-color: rgb(0, 168, 132);
+        /* border: 2px solid blue; */
+}
+
+.header img {
+    position: relative;
+    top: 26.55px;
+    left: 180px;
+    /* border: 2px red solid; */
+}
+
+h2 {
+    /* border: 2px solid yellow; */
+    width: 150px;
+    margin-left:232.898989px;
+    margin-top: -6.2323232px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: 100;
+    font-feature-settings: "kern";
+}
+
+.white {
+    position: absolute;
+    top: 93.75px;
+    margin: 0 0 0 180px;
+    width: 73.999999%;
+    height: max-content;
+    background-color: rgb(249, 249, 250);
+    /* border-radius: 5px; */
+    /* border: 2px solid red; */
+}
+
+.laptop {
+    border: 1.98989px rgb(226, 230, 232) ridge;
+    margin: 45px 100px;
+    width: 79%;
+    height: 110.99999px;
+    border-radius: 10px;
+    /* border: 2px black solid; */
+}
+h4 p {
+    color: black;
+}
+
+.app{
+    background-color: rgb(0, 128, 105);
+    color: white;
+    padding: 9px 25px;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: 100;
+    font-feature-settings: normal;
+    border-radius: 20px;
+    text-align: center;
+    float: right;
+    margin-top: -40.55px;
+    margin-right: 20.777770px;   
+    /* border: 2px solid yellow; */
+}
+
+
+.system {
+    top: 90px;
+    align-content: center;
+    /* border: 2px solid red; */
+}
+h4 {
+    margin-top: -25px;
+    font-size: 17px;
+    line-height: 21.997px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    font-weight: 400;
+}
+p {
+    font-size: 14px;
+    line-height: 20.004px;
+    vertical-align: baseline;
+    font-weight: 400;
+}
+
+h4, p {
+    margin-left:140px;
+    padding: 0.666666px 0px;
+    width: 75%;
+    /* border: 2px solid blue; */
+}
+
+.laptop img {
+    position: relative;
+    top: 35px;
+    left: 35px;
+    /* border: 2px solid red; */
+}
+
+.use h1{
+    width: 60%;
+    margin-left: 60px;
+    padding-bottom: 40px;
+    color: rgb(120 132, 140);
+    font-size: 30px;
+    line-height: 16px;
+    font-weight: 300;
+    font-stretch: 100%;
+    font-feature-settings: "kern";
+    /* border: 2px black solid; */
+}
+
+.bullets {
+    width: 59.99999%;
+    font-size: 18px;
+    margin-left: 80px;
+    line-height: 28px;
+    word-spacing: 2px;
+    font-weight: 400;
+    color: rgb(120, 132, 140);
+    border-bottom: 1.98989px rgb(226, 230, 232) ridge;
+    /* border: 2px purple solid; */
+}
+
+
+li {
+    padding: 10px;
+    margin-bottom: 15px;
+    /* border: 2px solid red; */
+    
+}
+
+strong {
+        color: rgb(59, 74, 84);
+}
+
+a {
+    color: rgb(0, 128, 105);
+    background: transparent;
+    position: relative;
+    vertical-align: bottom;
+    /* border: 2px red solid; */
+    
+}
+
+.phone {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin: 60px 0px 10px 0px;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 400;
+    vertical-align: baseline;
+    /* text-align: start; */
+    font-feature-settings: "kern";
+    /* background-color: blue; */
+    /* border: 2px solid red; */
+}
+
+
+
+.qrcode {
+    margin-left: 80px;
+    margin-right: 55.9999px;
+    margin-top: -533.867680px;
+    /* border: 2px solid red; */
+    float: right;
+}
+
+#tutor {
+    text-align: center;
+    background-color: rgb(249, 249, 250);
+    margin-top: 15px;
+    margin-bottom: 50px;
+    /* border: 4px solid navy; */
+}
+h5, h6 {
+    margin: 10px 0;
+    text-decoration:
+    none solid rgb(65, 82, 93)
+}
+h5 {
+    color: rgb(65, 82, 93);
+    line-height-step: 18px;
+    font-size: 28px;
+    font-weight: 10;
+    line-height: normal;
+    vertical-align: baseline;
+}
+h6 {
+    padding-bottom: 15px;
+    font-size: 10px;
+    font-stretch: 80%;
+    font-weight: bold;
+    /* border: 3px solid black; */
+}
+
+video {
+    align-items: center;
+    margin-bottom: 40px;
+    /* border: 2px solid navy;/ */
+}
+
+.number {
+    margin-left: 60px;
+}
